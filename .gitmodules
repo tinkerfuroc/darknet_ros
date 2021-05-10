@@ -1,3 +1,4 @@
+
 [submodule "darknet"]
 	path = darknet
-	url = https://github.com/leggedrobotics/darknet
+	url = git@github.com:tinkerfuroc/darknet.git
